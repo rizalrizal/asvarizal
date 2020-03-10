@@ -613,17 +613,17 @@ h2.resp-accordion {
 .footer {
     padding: 2em 0;
     text-align: center;
-    background: #FFF;
+    background: #1F1F1F;
 }
 .footer p {
-    color: #000;
+    color: #fff;
 	font-size: 1.1em;
 }
 .footer p a{
     color: #F7E612;
 }
 .footer p a:hover{
-    color: #000;
+    color: #fff;
 }
 /*--//footer--*/
 /*--slider-up-arrow--*/
